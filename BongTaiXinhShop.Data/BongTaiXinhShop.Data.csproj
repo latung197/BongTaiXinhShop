@@ -1,0 +1,112 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="15.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{5392122F-33F2-4810-9977-67B4AE186156}</ProjectGuid>
+    <OutputType>Library</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <RootNamespace>BongTaiXinhShop.Data</RootNamespace>
+    <AssemblyName>BongTaiXinhShop.Data</AssemblyName>
+    <TargetFrameworkVersion>v4.5.1</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+    <Deterministic>true</Deterministic>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="EntityFramework, Version=6.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089, processorArchitecture=MSIL">
+      <HintPath>..\packages\EntityFramework.6.1.3\lib\net45\EntityFramework.dll</HintPath>
+    </Reference>
+    <Reference Include="EntityFramework.SqlServer, Version=6.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089, processorArchitecture=MSIL">
+      <HintPath>..\packages\EntityFramework.6.1.3\lib\net45\EntityFramework.SqlServer.dll</HintPath>
+    </Reference>
+    <Reference Include="Microsoft.AspNet.Identity.Core, Version=2.0.0.0, Culture=neutral, PublicKeyToken=31bf3856ad364e35, processorArchitecture=MSIL">
+      <HintPath>..\packages\Microsoft.AspNet.Identity.Core.2.2.1\lib\net45\Microsoft.AspNet.Identity.Core.dll</HintPath>
+    </Reference>
+    <Reference Include="Microsoft.AspNet.Identity.EntityFramework, Version=2.0.0.0, Culture=neutral, PublicKeyToken=31bf3856ad364e35, processorArchitecture=MSIL">
+      <HintPath>..\packages\Microsoft.AspNet.Identity.EntityFramework.2.2.1\lib\net45\Microsoft.AspNet.Identity.EntityFramework.dll</HintPath>
+    </Reference>
+    <Reference Include="System" />
+    <Reference Include="System.ComponentModel.DataAnnotations" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Net.Http" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="BongTaiXinhShopDbContext.cs" />
+    <Compile Include="Infastructure\DbFactory.cs" />
+    <Compile Include="Infastructure\Disposable.cs" />
+    <Compile Include="Infastructure\IDbFactory.cs" />
+    <Compile Include="Infastructure\IRepository.cs" />
+    <Compile Include="Infastructure\IUnitOfwork.cs" />
+    <Compile Include="Infastructure\RepositoryBase.cs" />
+    <Compile Include="Infastructure\UnitOfwork.cs" />
+    <Compile Include="Migrations\202304260421347_InitialDB.cs" />
+    <Compile Include="Migrations\202304260421347_InitialDB.Designer.cs">
+      <DependentUpon>202304260421347_InitialDB.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Migrations\Configuration.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="Repositorys\ErrorRepository.cs" />
+    <Compile Include="Repositorys\FooterRepository.cs" />
+    <Compile Include="Repositorys\MenuGroupRepository.cs" />
+    <Compile Include="Repositorys\MenuRepository.cs" />
+    <Compile Include="Repositorys\OrderDetailRepository.cs" />
+    <Compile Include="Repositorys\OrderRepository.cs" />
+    <Compile Include="Repositorys\PageRepository.cs" />
+    <Compile Include="Repositorys\PostCategryRepository.cs" />
+    <Compile Include="Repositorys\PostRepository.cs" />
+    <Compile Include="Repositorys\PostTagRepository.cs" />
+    <Compile Include="Repositorys\ProductCategoryRepository.cs" />
+    <Compile Include="Repositorys\ProductRepository.cs" />
+    <Compile Include="Repositorys\ProductTagRepository.cs" />
+    <Compile Include="Repositorys\SlideRepository.cs" />
+    <Compile Include="Repositorys\SupportOnlineRepository.cs" />
+    <Compile Include="Repositorys\SystemConfigRepository.cs" />
+    <Compile Include="Repositorys\TagRepository.cs" />
+    <Compile Include="Repositorys\VisitorStatisticRepository.cs" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="App.config">
+      <SubType>Designer</SubType>
+    </None>
+    <None Include="packages.config" />
+  </ItemGroup>
+  <ItemGroup>
+    <ProjectReference Include="..\BongTaiXinhShop.Common\BongTaiXinhShop.Common.csproj">
+      <Project>{85fb85d6-db31-4ff9-a31e-0f81eed5723f}</Project>
+      <Name>BongTaiXinhShop.Common</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\BongTaiXinhShop.Model\BongTaiXinhShop.Model.csproj">
+      <Project>{3013f0a0-07db-48e9-b8b2-1a689863c1de}</Project>
+      <Name>BongTaiXinhShop.Model</Name>
+    </ProjectReference>
+  </ItemGroup>
+  <ItemGroup>
+    <EmbeddedResource Include="Migrations\202304260421347_InitialDB.resx">
+      <DependentUpon>202304260421347_InitialDB.cs</DependentUpon>
+    </EmbeddedResource>
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+</Project>

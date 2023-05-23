@@ -1,0 +1,32 @@
+D:\Sourcecode\BongTaiXinhShop\BongTaiXinhShop.Service\bin\Debug\BongTaiXinhShop.Service.dll
+D:\Sourcecode\BongTaiXinhShop\BongTaiXinhShop.Service\bin\Debug\BongTaiXinhShop.Service.pdb
+D:\Sourcecode\BongTaiXinhShop\BongTaiXinhShop.Service\obj\Debug\BongTaiXinhShop.Service.csprojAssemblyReference.cache
+D:\Sourcecode\BongTaiXinhShop\BongTaiXinhShop.Service\obj\Debug\BongTaiXinhShop.Service.csproj.CoreCompileInputs.cache
+D:\Sourcecode\BongTaiXinhShop\BongTaiXinhShop.Service\obj\Debug\BongTaiXinhShop.Service.dll
+D:\Sourcecode\BongTaiXinhShop\BongTaiXinhShop.Service\obj\Debug\BongTaiXinhShop.Service.pdb
+D:\Sourcecode\BongTaiXinhShop\BongTaiXinhShop.Service\bin\Debug\BongTaiXinhShop.Common.dll
+D:\Sourcecode\BongTaiXinhShop\BongTaiXinhShop.Service\bin\Debug\BongTaiXinhShop.Data.dll
+D:\Sourcecode\BongTaiXinhShop\BongTaiXinhShop.Service\bin\Debug\BongTaiXinhShop.Model.dll
+D:\Sourcecode\BongTaiXinhShop\BongTaiXinhShop.Service\bin\Debug\BongTaiXinhShop.Common.pdb
+D:\Sourcecode\BongTaiXinhShop\BongTaiXinhShop.Service\bin\Debug\BongTaiXinhShop.Data.pdb
+D:\Sourcecode\BongTaiXinhShop\BongTaiXinhShop.Service\bin\Debug\BongTaiXinhShop.Data.dll.config
+D:\Sourcecode\BongTaiXinhShop\BongTaiXinhShop.Service\bin\Debug\BongTaiXinhShop.Model.pdb
+D:\Sourcecode\BongTaiXinhShop\BongTaiXinhShop.Service\bin\Debug\BongTaiXinhShop.Model.dll.config
+D:\Sourcecode\BongTaiXinhShop\BongTaiXinhShop.Service\obj\Debug\BongTaiXinhShop.Service.csproj.CopyComplete
+D:\New folder (4)\BongTaiXinhShop\BongTaiXinhShop.Service\bin\Debug\BongTaiXinhShop.Service.dll
+D:\New folder (4)\BongTaiXinhShop\BongTaiXinhShop.Service\bin\Debug\BongTaiXinhShop.Service.pdb
+D:\New folder (4)\BongTaiXinhShop\BongTaiXinhShop.Service\bin\Debug\BongTaiXinhShop.Common.dll
+D:\New folder (4)\BongTaiXinhShop\BongTaiXinhShop.Service\bin\Debug\BongTaiXinhShop.Data.dll
+D:\New folder (4)\BongTaiXinhShop\BongTaiXinhShop.Service\bin\Debug\BongTaiXinhShop.Model.dll
+D:\New folder (4)\BongTaiXinhShop\BongTaiXinhShop.Service\bin\Debug\EntityFramework.dll
+D:\New folder (4)\BongTaiXinhShop\BongTaiXinhShop.Service\bin\Debug\BongTaiXinhShop.Common.pdb
+D:\New folder (4)\BongTaiXinhShop\BongTaiXinhShop.Service\bin\Debug\BongTaiXinhShop.Data.pdb
+D:\New folder (4)\BongTaiXinhShop\BongTaiXinhShop.Service\bin\Debug\BongTaiXinhShop.Data.dll.config
+D:\New folder (4)\BongTaiXinhShop\BongTaiXinhShop.Service\bin\Debug\BongTaiXinhShop.Model.pdb
+D:\New folder (4)\BongTaiXinhShop\BongTaiXinhShop.Service\bin\Debug\BongTaiXinhShop.Model.dll.config
+D:\New folder (4)\BongTaiXinhShop\BongTaiXinhShop.Service\bin\Debug\EntityFramework.xml
+D:\New folder (4)\BongTaiXinhShop\BongTaiXinhShop.Service\obj\Debug\BongTaiXinhShop.Service.csprojAssemblyReference.cache
+D:\New folder (4)\BongTaiXinhShop\BongTaiXinhShop.Service\obj\Debug\BongTaiXinhShop.Service.csproj.CoreCompileInputs.cache
+D:\New folder (4)\BongTaiXinhShop\BongTaiXinhShop.Service\obj\Debug\BongTaiXinhShop.Service.csproj.CopyComplete
+D:\New folder (4)\BongTaiXinhShop\BongTaiXinhShop.Service\obj\Debug\BongTaiXinhShop.Service.dll
+D:\New folder (4)\BongTaiXinhShop\BongTaiXinhShop.Service\obj\Debug\BongTaiXinhShop.Service.pdb

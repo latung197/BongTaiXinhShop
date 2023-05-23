@@ -1,0 +1,12 @@
+D:\Sourcecode\BongTaiXinhShop\BongTaiXinhShop.Common\bin\Debug\BongTaiXinhShop.Common.dll
+D:\Sourcecode\BongTaiXinhShop\BongTaiXinhShop.Common\bin\Debug\BongTaiXinhShop.Common.pdb
+D:\Sourcecode\BongTaiXinhShop\BongTaiXinhShop.Common\obj\Debug\BongTaiXinhShop.Common.csprojAssemblyReference.cache
+D:\Sourcecode\BongTaiXinhShop\BongTaiXinhShop.Common\obj\Debug\BongTaiXinhShop.Common.csproj.CoreCompileInputs.cache
+D:\Sourcecode\BongTaiXinhShop\BongTaiXinhShop.Common\obj\Debug\BongTaiXinhShop.Common.dll
+D:\Sourcecode\BongTaiXinhShop\BongTaiXinhShop.Common\obj\Debug\BongTaiXinhShop.Common.pdb
+D:\New folder (4)\BongTaiXinhShop\BongTaiXinhShop.Common\bin\Debug\BongTaiXinhShop.Common.dll
+D:\New folder (4)\BongTaiXinhShop\BongTaiXinhShop.Common\bin\Debug\BongTaiXinhShop.Common.pdb
+D:\New folder (4)\BongTaiXinhShop\BongTaiXinhShop.Common\obj\Debug\BongTaiXinhShop.Common.csprojAssemblyReference.cache
+D:\New folder (4)\BongTaiXinhShop\BongTaiXinhShop.Common\obj\Debug\BongTaiXinhShop.Common.csproj.CoreCompileInputs.cache
+D:\New folder (4)\BongTaiXinhShop\BongTaiXinhShop.Common\obj\Debug\BongTaiXinhShop.Common.dll
+D:\New folder (4)\BongTaiXinhShop\BongTaiXinhShop.Common\obj\Debug\BongTaiXinhShop.Common.pdb

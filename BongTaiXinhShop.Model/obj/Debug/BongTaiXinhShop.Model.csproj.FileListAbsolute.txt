@@ -1,0 +1,24 @@
+D:\Sourcecode\BongTaiXinhShop\BongTaiXinhShop.Model\bin\Debug\BongTaiXinhShop.Model.dll.config
+D:\Sourcecode\BongTaiXinhShop\BongTaiXinhShop.Model\bin\Debug\BongTaiXinhShop.Model.dll
+D:\Sourcecode\BongTaiXinhShop\BongTaiXinhShop.Model\bin\Debug\BongTaiXinhShop.Model.pdb
+D:\Sourcecode\BongTaiXinhShop\BongTaiXinhShop.Model\bin\Debug\EntityFramework.dll
+D:\Sourcecode\BongTaiXinhShop\BongTaiXinhShop.Model\bin\Debug\EntityFramework.SqlServer.dll
+D:\Sourcecode\BongTaiXinhShop\BongTaiXinhShop.Model\bin\Debug\EntityFramework.xml
+D:\Sourcecode\BongTaiXinhShop\BongTaiXinhShop.Model\bin\Debug\EntityFramework.SqlServer.xml
+D:\Sourcecode\BongTaiXinhShop\BongTaiXinhShop.Model\obj\Debug\BongTaiXinhShop.Model.csprojAssemblyReference.cache
+D:\Sourcecode\BongTaiXinhShop\BongTaiXinhShop.Model\obj\Debug\BongTaiXinhShop.Model.csproj.CoreCompileInputs.cache
+D:\Sourcecode\BongTaiXinhShop\BongTaiXinhShop.Model\obj\Debug\BongTaiXinhShop.Model.csproj.CopyComplete
+D:\Sourcecode\BongTaiXinhShop\BongTaiXinhShop.Model\obj\Debug\BongTaiXinhShop.Model.dll
+D:\Sourcecode\BongTaiXinhShop\BongTaiXinhShop.Model\obj\Debug\BongTaiXinhShop.Model.pdb
+D:\New folder (4)\BongTaiXinhShop\BongTaiXinhShop.Model\bin\Debug\BongTaiXinhShop.Model.dll.config
+D:\New folder (4)\BongTaiXinhShop\BongTaiXinhShop.Model\bin\Debug\BongTaiXinhShop.Model.dll
+D:\New folder (4)\BongTaiXinhShop\BongTaiXinhShop.Model\bin\Debug\BongTaiXinhShop.Model.pdb
+D:\New folder (4)\BongTaiXinhShop\BongTaiXinhShop.Model\bin\Debug\EntityFramework.dll
+D:\New folder (4)\BongTaiXinhShop\BongTaiXinhShop.Model\bin\Debug\EntityFramework.SqlServer.dll
+D:\New folder (4)\BongTaiXinhShop\BongTaiXinhShop.Model\bin\Debug\EntityFramework.xml
+D:\New folder (4)\BongTaiXinhShop\BongTaiXinhShop.Model\bin\Debug\EntityFramework.SqlServer.xml
+D:\New folder (4)\BongTaiXinhShop\BongTaiXinhShop.Model\obj\Debug\BongTaiXinhShop.Model.csprojAssemblyReference.cache
+D:\New folder (4)\BongTaiXinhShop\BongTaiXinhShop.Model\obj\Debug\BongTaiXinhShop.Model.csproj.CoreCompileInputs.cache
+D:\New folder (4)\BongTaiXinhShop\BongTaiXinhShop.Model\obj\Debug\BongTaiXinhShop.Model.csproj.CopyComplete
+D:\New folder (4)\BongTaiXinhShop\BongTaiXinhShop.Model\obj\Debug\BongTaiXinhShop.Model.dll
+D:\New folder (4)\BongTaiXinhShop\BongTaiXinhShop.Model\obj\Debug\BongTaiXinhShop.Model.pdb
