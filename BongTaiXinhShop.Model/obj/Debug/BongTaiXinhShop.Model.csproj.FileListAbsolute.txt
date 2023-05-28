@@ -22,3 +22,19 @@ D:\New folder (4)\BongTaiXinhShop\BongTaiXinhShop.Model\obj\Debug\BongTaiXinhSho
 D:\New folder (4)\BongTaiXinhShop\BongTaiXinhShop.Model\obj\Debug\BongTaiXinhShop.Model.csproj.CopyComplete
 D:\New folder (4)\BongTaiXinhShop\BongTaiXinhShop.Model\obj\Debug\BongTaiXinhShop.Model.dll
 D:\New folder (4)\BongTaiXinhShop\BongTaiXinhShop.Model\obj\Debug\BongTaiXinhShop.Model.pdb
+D:\BongTaiXinhShop\BongTaiXinhShop.Model\bin\Debug\BongTaiXinhShop.Model.dll.config
+D:\BongTaiXinhShop\BongTaiXinhShop.Model\bin\Debug\BongTaiXinhShop.Model.dll
+D:\BongTaiXinhShop\BongTaiXinhShop.Model\bin\Debug\BongTaiXinhShop.Model.pdb
+D:\BongTaiXinhShop\BongTaiXinhShop.Model\bin\Debug\EntityFramework.dll
+D:\BongTaiXinhShop\BongTaiXinhShop.Model\bin\Debug\EntityFramework.SqlServer.dll
+D:\BongTaiXinhShop\BongTaiXinhShop.Model\bin\Debug\Microsoft.AspNet.Identity.Core.dll
+D:\BongTaiXinhShop\BongTaiXinhShop.Model\bin\Debug\Microsoft.AspNet.Identity.EntityFramework.dll
+D:\BongTaiXinhShop\BongTaiXinhShop.Model\bin\Debug\EntityFramework.xml
+D:\BongTaiXinhShop\BongTaiXinhShop.Model\bin\Debug\EntityFramework.SqlServer.xml
+D:\BongTaiXinhShop\BongTaiXinhShop.Model\bin\Debug\Microsoft.AspNet.Identity.Core.xml
+D:\BongTaiXinhShop\BongTaiXinhShop.Model\bin\Debug\Microsoft.AspNet.Identity.EntityFramework.xml
+D:\BongTaiXinhShop\BongTaiXinhShop.Model\obj\Debug\BongTaiXinhShop.Model.csprojAssemblyReference.cache
+D:\BongTaiXinhShop\BongTaiXinhShop.Model\obj\Debug\BongTaiXinhShop.Model.csproj.CoreCompileInputs.cache
+D:\BongTaiXinhShop\BongTaiXinhShop.Model\obj\Debug\BongTaiXinhShop.Model.csproj.CopyComplete
+D:\BongTaiXinhShop\BongTaiXinhShop.Model\obj\Debug\BongTaiXinhShop.Model.dll
+D:\BongTaiXinhShop\BongTaiXinhShop.Model\obj\Debug\BongTaiXinhShop.Model.pdb

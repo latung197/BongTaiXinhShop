@@ -66,6 +66,10 @@
     <Compile Include="Migrations\202304260421347_InitialDB.Designer.cs">
       <DependentUpon>202304260421347_InitialDB.cs</DependentUpon>
     </Compile>
+    <Compile Include="Migrations\202305280805443_Intergrate-AspNetIdentity.cs" />
+    <Compile Include="Migrations\202305280805443_Intergrate-AspNetIdentity.Designer.cs">
+      <DependentUpon>202305280805443_Intergrate-AspNetIdentity.cs</DependentUpon>
+    </Compile>
     <Compile Include="Migrations\Configuration.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
     <Compile Include="Repositorys\ErrorRepository.cs" />
@@ -106,6 +110,9 @@
   <ItemGroup>
     <EmbeddedResource Include="Migrations\202304260421347_InitialDB.resx">
       <DependentUpon>202304260421347_InitialDB.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Migrations\202305280805443_Intergrate-AspNetIdentity.resx">
+      <DependentUpon>202305280805443_Intergrate-AspNetIdentity.cs</DependentUpon>
     </EmbeddedResource>
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />

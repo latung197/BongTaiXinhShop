@@ -31,3 +31,27 @@ D:\New folder (4)\BongTaiXinhShop\BongTaiXinhShop.Data\obj\Debug\BongTaiXinhShop
 D:\New folder (4)\BongTaiXinhShop\BongTaiXinhShop.Data\obj\Debug\BongTaiXinhShop.Data.csproj.CopyComplete
 D:\New folder (4)\BongTaiXinhShop\BongTaiXinhShop.Data\obj\Debug\BongTaiXinhShop.Data.dll
 D:\New folder (4)\BongTaiXinhShop\BongTaiXinhShop.Data\obj\Debug\BongTaiXinhShop.Data.pdb
+D:\BongTaiXinhShop\BongTaiXinhShop.Data\bin\Debug\BongTaiXinhShop.Data.dll.config
+D:\BongTaiXinhShop\BongTaiXinhShop.Data\bin\Debug\BongTaiXinhShop.Data.dll
+D:\BongTaiXinhShop\BongTaiXinhShop.Data\bin\Debug\BongTaiXinhShop.Data.pdb
+D:\BongTaiXinhShop\BongTaiXinhShop.Data\bin\Debug\BongTaiXinhShop.Common.dll
+D:\BongTaiXinhShop\BongTaiXinhShop.Data\bin\Debug\BongTaiXinhShop.Model.dll
+D:\BongTaiXinhShop\BongTaiXinhShop.Data\bin\Debug\EntityFramework.dll
+D:\BongTaiXinhShop\BongTaiXinhShop.Data\bin\Debug\EntityFramework.SqlServer.dll
+D:\BongTaiXinhShop\BongTaiXinhShop.Data\bin\Debug\Microsoft.AspNet.Identity.Core.dll
+D:\BongTaiXinhShop\BongTaiXinhShop.Data\bin\Debug\Microsoft.AspNet.Identity.EntityFramework.dll
+D:\BongTaiXinhShop\BongTaiXinhShop.Data\bin\Debug\BongTaiXinhShop.Common.pdb
+D:\BongTaiXinhShop\BongTaiXinhShop.Data\bin\Debug\BongTaiXinhShop.Model.pdb
+D:\BongTaiXinhShop\BongTaiXinhShop.Data\bin\Debug\BongTaiXinhShop.Model.dll.config
+D:\BongTaiXinhShop\BongTaiXinhShop.Data\bin\Debug\EntityFramework.xml
+D:\BongTaiXinhShop\BongTaiXinhShop.Data\bin\Debug\EntityFramework.SqlServer.xml
+D:\BongTaiXinhShop\BongTaiXinhShop.Data\bin\Debug\Microsoft.AspNet.Identity.Core.xml
+D:\BongTaiXinhShop\BongTaiXinhShop.Data\bin\Debug\Microsoft.AspNet.Identity.EntityFramework.xml
+D:\BongTaiXinhShop\BongTaiXinhShop.Data\obj\Debug\BongTaiXinhShop.Data.csprojAssemblyReference.cache
+D:\BongTaiXinhShop\BongTaiXinhShop.Data\obj\Debug\BongTaiXinhShop.Data.Migrations.InitialDB.resources
+D:\BongTaiXinhShop\BongTaiXinhShop.Data\obj\Debug\BongTaiXinhShop.Data.csproj.GenerateResource.cache
+D:\BongTaiXinhShop\BongTaiXinhShop.Data\obj\Debug\BongTaiXinhShop.Data.csproj.CoreCompileInputs.cache
+D:\BongTaiXinhShop\BongTaiXinhShop.Data\obj\Debug\BongTaiXinhShop.Data.csproj.CopyComplete
+D:\BongTaiXinhShop\BongTaiXinhShop.Data\obj\Debug\BongTaiXinhShop.Data.dll
+D:\BongTaiXinhShop\BongTaiXinhShop.Data\obj\Debug\BongTaiXinhShop.Data.pdb
+D:\BongTaiXinhShop\BongTaiXinhShop.Data\obj\Debug\BongTaiXinhShop.Data.Migrations.IntergrateAspNetIdentity.resources

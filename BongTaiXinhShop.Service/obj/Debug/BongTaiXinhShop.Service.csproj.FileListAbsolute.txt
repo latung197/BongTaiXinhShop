@@ -30,3 +30,24 @@ D:\New folder (4)\BongTaiXinhShop\BongTaiXinhShop.Service\obj\Debug\BongTaiXinhS
 D:\New folder (4)\BongTaiXinhShop\BongTaiXinhShop.Service\obj\Debug\BongTaiXinhShop.Service.csproj.CopyComplete
 D:\New folder (4)\BongTaiXinhShop\BongTaiXinhShop.Service\obj\Debug\BongTaiXinhShop.Service.dll
 D:\New folder (4)\BongTaiXinhShop\BongTaiXinhShop.Service\obj\Debug\BongTaiXinhShop.Service.pdb
+D:\BongTaiXinhShop\BongTaiXinhShop.Service\bin\Debug\BongTaiXinhShop.Service.dll
+D:\BongTaiXinhShop\BongTaiXinhShop.Service\bin\Debug\BongTaiXinhShop.Service.pdb
+D:\BongTaiXinhShop\BongTaiXinhShop.Service\bin\Debug\BongTaiXinhShop.Common.dll
+D:\BongTaiXinhShop\BongTaiXinhShop.Service\bin\Debug\BongTaiXinhShop.Data.dll
+D:\BongTaiXinhShop\BongTaiXinhShop.Service\bin\Debug\BongTaiXinhShop.Model.dll
+D:\BongTaiXinhShop\BongTaiXinhShop.Service\bin\Debug\Microsoft.AspNet.Identity.EntityFramework.dll
+D:\BongTaiXinhShop\BongTaiXinhShop.Service\bin\Debug\EntityFramework.dll
+D:\BongTaiXinhShop\BongTaiXinhShop.Service\bin\Debug\Microsoft.AspNet.Identity.Core.dll
+D:\BongTaiXinhShop\BongTaiXinhShop.Service\bin\Debug\BongTaiXinhShop.Common.pdb
+D:\BongTaiXinhShop\BongTaiXinhShop.Service\bin\Debug\BongTaiXinhShop.Data.pdb
+D:\BongTaiXinhShop\BongTaiXinhShop.Service\bin\Debug\BongTaiXinhShop.Data.dll.config
+D:\BongTaiXinhShop\BongTaiXinhShop.Service\bin\Debug\BongTaiXinhShop.Model.pdb
+D:\BongTaiXinhShop\BongTaiXinhShop.Service\bin\Debug\BongTaiXinhShop.Model.dll.config
+D:\BongTaiXinhShop\BongTaiXinhShop.Service\bin\Debug\Microsoft.AspNet.Identity.EntityFramework.xml
+D:\BongTaiXinhShop\BongTaiXinhShop.Service\bin\Debug\EntityFramework.xml
+D:\BongTaiXinhShop\BongTaiXinhShop.Service\bin\Debug\Microsoft.AspNet.Identity.Core.xml
+D:\BongTaiXinhShop\BongTaiXinhShop.Service\obj\Debug\BongTaiXinhShop.Service.csprojAssemblyReference.cache
+D:\BongTaiXinhShop\BongTaiXinhShop.Service\obj\Debug\BongTaiXinhShop.Service.csproj.CoreCompileInputs.cache
+D:\BongTaiXinhShop\BongTaiXinhShop.Service\obj\Debug\BongTaiXinhShop.Service.csproj.CopyComplete
+D:\BongTaiXinhShop\BongTaiXinhShop.Service\obj\Debug\BongTaiXinhShop.Service.dll
+D:\BongTaiXinhShop\BongTaiXinhShop.Service\obj\Debug\BongTaiXinhShop.Service.pdb

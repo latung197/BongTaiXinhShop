@@ -43,7 +43,8 @@ namespace BongTaiXinhShop.Data
 
         protected override void OnModelCreating(DbModelBuilder builder)
         {
-
+            builder.Entity<IdentityUserRole>().HasKey(i => i.UserId);
+            builder.Entity<IdentityUserLogin>().HasKey(i => i.UserId);
         }
 
     }
