@@ -16,6 +16,7 @@ using System.Reflection;
 using System.Web.Http;
 using System.Web;
 using Microsoft.Owin.Security.DataProtection;
+using Microsoft.AspNet.Identity;
 
 [assembly: OwinStartup(typeof(BongTaiXinhShop.Web.App_Start.Startup))]
 
@@ -41,8 +42,8 @@ namespace BongTaiXinhShop.Web.App_Start
             builder.RegisterType<DbFactory>().As<IDbFactory>().InstancePerRequest();
 
             builder.RegisterType<BongTaiXinhShopDbContext>().AsSelf().InstancePerRequest();
-            // Asp.Net
-
+            // Asp.Net Identity
+            builder.RegisterType<ApplicationUserStore>().As<IUserStore<ApplicationUser>>().InstancePerApiRequest();
             builder.RegisterType<ApplicationUserManager>().AsSelf().InstancePerRequest();
             builder.RegisterType<ApplicationSignInManager>().AsSelf().InstancePerRequest();
             builder.Register(c => HttpContext.Current.GetOwinContext().Authentication).InstancePerRequest();

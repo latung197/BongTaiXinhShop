@@ -14,8 +14,17 @@ using System.Web;
 
 namespace BongTaiXinhShop.Web.App_Start
 {
+
+    public class ApplicationUserStore : UserStore<ApplicationUser>
+    {
+        public ApplicationUserStore(BongTaiXinhShopDbContext context) : base(context)
+        {
+
+        }
+    }
     public class ApplicationUserManager : UserManager<ApplicationUser>
     {
+
         public ApplicationUserManager(IUserStore<ApplicationUser> store)
             : base(store)
         {

@@ -12,6 +12,7 @@ using System.Web.Http.ModelBinding;
 
 namespace BongTaiXinhShop.Web.Api
 {
+    [RoutePrefix("api/account")]
     public class AccountController : ApiController
     {
         private ApplicationSignInManager _signInManager;
@@ -63,6 +64,7 @@ namespace BongTaiXinhShop.Web.Api
         // POST: /Account/Login
         [HttpPost]
         [AllowAnonymous]
+        [Route("login")]
         public async Task<HttpResponseMessage> Login(HttpRequestMessage httpRequest, string User, string Password, bool RememberMe)
         {
             if (!ModelState.IsValid)
