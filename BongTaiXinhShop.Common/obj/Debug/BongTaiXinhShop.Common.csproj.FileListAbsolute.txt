@@ -10,3 +10,9 @@ D:\New folder (4)\BongTaiXinhShop\BongTaiXinhShop.Common\obj\Debug\BongTaiXinhSh
 D:\New folder (4)\BongTaiXinhShop\BongTaiXinhShop.Common\obj\Debug\BongTaiXinhShop.Common.csproj.CoreCompileInputs.cache
 D:\New folder (4)\BongTaiXinhShop\BongTaiXinhShop.Common\obj\Debug\BongTaiXinhShop.Common.dll
 D:\New folder (4)\BongTaiXinhShop\BongTaiXinhShop.Common\obj\Debug\BongTaiXinhShop.Common.pdb
+D:\BongTaiXinhShop\BongTaiXinhShop.Common\bin\Debug\BongTaiXinhShop.Common.dll
+D:\BongTaiXinhShop\BongTaiXinhShop.Common\bin\Debug\BongTaiXinhShop.Common.pdb
+D:\BongTaiXinhShop\BongTaiXinhShop.Common\obj\Debug\BongTaiXinhShop.Common.csprojAssemblyReference.cache
+D:\BongTaiXinhShop\BongTaiXinhShop.Common\obj\Debug\BongTaiXinhShop.Common.csproj.CoreCompileInputs.cache
+D:\BongTaiXinhShop\BongTaiXinhShop.Common\obj\Debug\BongTaiXinhShop.Common.dll
+D:\BongTaiXinhShop\BongTaiXinhShop.Common\obj\Debug\BongTaiXinhShop.Common.pdb
