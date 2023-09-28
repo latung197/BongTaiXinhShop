@@ -9,6 +9,7 @@ namespace BongTaiXinhShop.Data.Repositorys
 {
     public interface IPostCategoryRepository : IRepository<PostCategory>
     {
+
     }
 
     public class PostCategoryRepository : RepositoryBase<PostCategory>, IPostCategoryRepository
