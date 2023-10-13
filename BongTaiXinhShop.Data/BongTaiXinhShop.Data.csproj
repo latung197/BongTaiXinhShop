@@ -74,6 +74,14 @@
     <Compile Include="Migrations\202305291448203_chang_key.Designer.cs">
       <DependentUpon>202305291448203_chang_key.cs</DependentUpon>
     </Compile>
+    <Compile Include="Migrations\202309301506071_addtable.cs" />
+    <Compile Include="Migrations\202309301506071_addtable.Designer.cs">
+      <DependentUpon>202309301506071_addtable.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Migrations\202310131634206_DB2.cs" />
+    <Compile Include="Migrations\202310131634206_DB2.Designer.cs">
+      <DependentUpon>202310131634206_DB2.cs</DependentUpon>
+    </Compile>
     <Compile Include="Migrations\Configuration.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
     <Compile Include="Repositorys\ClientCategoryRepository.cs" />
@@ -121,6 +129,12 @@
     </EmbeddedResource>
     <EmbeddedResource Include="Migrations\202305291448203_chang_key.resx">
       <DependentUpon>202305291448203_chang_key.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Migrations\202309301506071_addtable.resx">
+      <DependentUpon>202309301506071_addtable.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Migrations\202310131634206_DB2.resx">
+      <DependentUpon>202310131634206_DB2.cs</DependentUpon>
     </EmbeddedResource>
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />

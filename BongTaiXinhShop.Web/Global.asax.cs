@@ -1,4 +1,5 @@
-﻿using BongTaiXinhShop.Web.Mappings;
+﻿using BongTaiXinhShop.Data;
+using BongTaiXinhShop.Web.Mappings;
 using System;
 using System.Collections.Generic;
 using System.Linq;
@@ -20,6 +21,7 @@ namespace BongTaiXinhShop.Web
             FilterConfig.RegisterGlobalFilters(GlobalFilters.Filters);
             RouteConfig.RegisterRoutes(RouteTable.Routes);
             BundleConfig.RegisterBundles(BundleTable.Bundles);
+
         }
     }
 }

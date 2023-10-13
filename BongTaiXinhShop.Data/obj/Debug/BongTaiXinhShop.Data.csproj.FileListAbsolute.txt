@@ -56,3 +56,5 @@ D:\BongTaiXinhShop\BongTaiXinhShop.Data\obj\Debug\BongTaiXinhShop.Data.dll
 D:\BongTaiXinhShop\BongTaiXinhShop.Data\obj\Debug\BongTaiXinhShop.Data.pdb
 D:\BongTaiXinhShop\BongTaiXinhShop.Data\obj\Debug\BongTaiXinhShop.Data.Migrations.IntergrateAspNetIdentity.resources
 D:\BongTaiXinhShop\BongTaiXinhShop.Data\obj\Debug\BongTaiXinhShop.Data.Migrations.chang_key.resources
+D:\BongTaiXinhShop\BongTaiXinhShop.Data\obj\Debug\BongTaiXinhShop.Data.Migrations.addtable.resources
+D:\BongTaiXinhShop\BongTaiXinhShop.Data\obj\Debug\BongTaiXinhShop.Data.Migrations.DB2.resources
