@@ -210,6 +210,7 @@
     <Content Include="App\components\Product\ProductListView.html" />
     <Content Include="App\components\Product\ProductAddView.html" />
     <Content Include="App\components\Product\Products.modules.js" />
+    <Content Include="App\Share\modules\bongtaixinhshop.common.js" />
     <Content Include="Assets\admin\css\adminlte.css" />
     <Content Include="Assets\admin\css\adminlte.min.css" />
     <Content Include="Assets\admin\css\alt\adminlte.components.css" />
