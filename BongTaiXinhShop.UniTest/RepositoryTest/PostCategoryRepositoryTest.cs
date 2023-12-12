@@ -25,18 +25,20 @@ namespace BongTaiXinhShop.UniTest.RepositoryTest
         }
 
 
-        //[TestMethod]
-        //public void PostCategory_Repository_Create()
-        //{
-        //    PostCategory category = new PostCategory();
-        //    category.Name = "Test category";
-        //    category.Alias = "Test-category";
-        //    category.Status = true;
-        //    var result = objRepository.Add(category);
-        //    unitOfWork.Commit();
-        //    Assert.IsNotNull(result);
-        //    Assert.AreEqual(2, result.ID);
-        //}
+        [TestMethod]
+        public void PostCategory_Repository_Create()
+        {
+            PostCategory category = new PostCategory();
+            category.Name = "Lê Tùng";
+            category.Alias = "Test-category";
+            category.ParentID = 2;
+            category.CreatedDate = DateTime.Now;
+            category.Status = true;
+            var result = objRepository.Add(category);
+            unitOfWork.Commit();
+            Assert.IsNotNull(result);
+            Assert.AreEqual(2, result.ID);
+        }
 
 
         [TestMethod]
